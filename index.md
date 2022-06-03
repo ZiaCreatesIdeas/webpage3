@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages, you look amazing today.
+## Welcome to GitHub Pages, you look amazing today. and How!
 
 You can use the [editor on GitHub](https://github.com/ZiaCreatesIdeas/webpage3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
