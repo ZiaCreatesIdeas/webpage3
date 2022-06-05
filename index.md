@@ -7,14 +7,16 @@ g { color: Green }
 # TODOs:
 
 - TODO: 
-- <r> Important thing to do </r> remove header and center page. Deleted default layout file.
+- <r> Important thing to do </r> remove header and center page. test three image inserts.
 - <o>TODO:</o> Less important thing to do
 
 ## Welcome to GitHub Pages, you look amazing today. and How!
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-![Prompt Angry Pig]( webpage3/images/Pig_Run2_Angry-Pig.gif)
+![Prompt Angry Pig](/webpage3/images/Pig_Run2_Angry-Pig.gif)
+![Prompt Angry Pig](/images/Pig_Run2_Angry-Pig.gif)
+![Prompt Angry Pig](ziacreatesideas.github.io/webpage3/images/Pig_Run2_Angry-Pig.gif)
 
 You can use the [editor on GitHub](https://github.com/ZiaCreatesIdeas/webpage3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
