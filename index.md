@@ -7,14 +7,15 @@ g { color: Green }
 # TODOs:
 
 - TODO: 
-- <r> Important thing to do </r> remove header and center page. test three image inserts.
+- <r> Important thing to do </r> remove header and center page. test which three codes work.
 - <o>TODO:</o> Less important thing to do
 
 ## Welcome to GitHub Pages, you look amazing today. and How!
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-![Prompt Angry Pig](/webpage3/images/Pig_Run2_Angry-Pig.gif)
+<!-- ![Prompt Angry Pig](/webpage3/images/Pig_Run2_Angry-Pig.gif) -->
+
 ![Prompt Angry Pig](/images/Pig_Run2_Angry-Pig.gif)
 ![Prompt Angry Pig](ziacreatesideas.github.io/webpage3/images/Pig_Run2_Angry-Pig.gif)
 
