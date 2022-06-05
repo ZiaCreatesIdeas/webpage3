@@ -6,7 +6,7 @@ g { color: Green }
 
 # TODOs:
 
-- <r>TODO:</r> Important thing to do
+- TODO: <r> Important thing to do </r> 
 - <o>TODO:</o> Less important thing to do
 
 ## Welcome to GitHub Pages, you look amazing today. and How!
