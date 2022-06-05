@@ -7,7 +7,7 @@ g { color: Green }
 # TODOs:
 
 - TODO: 
-- <r> Important thing to do </r> remove header and center page. Testing defaut css import.
+- <r> Important thing to do </r> remove header and center page. Testing hacker default layout made explicit.
 - <o>TODO:</o> Less important thing to do
 
 ## Welcome to GitHub Pages, you look amazing today. and How!
