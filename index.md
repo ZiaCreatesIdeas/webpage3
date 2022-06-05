@@ -7,7 +7,7 @@ g { color: Green }
 # TODOs:
 
 - TODO: 
-- <r> Important thing to do </r> 
+- <r> Important thing to do </r> remove header and center page. Testing defaut layout _layout
 - <o>TODO:</o> Less important thing to do
 
 ## Welcome to GitHub Pages, you look amazing today. and How!
