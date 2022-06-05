@@ -1,2 +1,5 @@
+@import "{{ site.theme }}";
 
-@import "{{ midnight@v0.2.0 }}";
+header {
+  display: none;
+}
