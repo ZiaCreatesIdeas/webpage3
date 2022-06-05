@@ -40,6 +40,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 <iframe src="https://drive.google.com/file/d/1iHE3k00SVYXmX-f1bSoNw3l8D-aDmRpR/view?usp=sharing" width="320" height="180" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
+## gdrive
+
+<iframe src="https://drive.google.com/file/d/1iHE3k00SVYXmX-f1bSoNw3l8D-aDmRpR/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ### Jekyll Themes
 
