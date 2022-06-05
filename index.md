@@ -7,7 +7,7 @@ g { color: Green }
 # TODOs:
 
 - TODO: 
-- <r> Important thing to do </r> remove header and center page. Testing _config.yaml addition of hacker theme.
+- <r> Important thing to do </r> remove header and center page. Testing comment out code in default layout, around header.
 - <o>TODO:</o> Less important thing to do
 
 ## Welcome to GitHub Pages, you look amazing today. and How!
