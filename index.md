@@ -16,9 +16,9 @@ g { color: Green }
 
 <!-- ![Prompt Angry Pig](/webpage3/images/Pig_Run2_Angry-Pig.gif) -->
 
-<!-- ![Prompt Angry Pig](/images/Pig_Run2_Angry-Pig.gif) -->
+![Prompt Angry Pig](/images/Pig_Run2_Angry-Pig.gif)
 
-![Prompt Angry Pig](ziacreatesideas.github.io/webpage3/images/Pig_Run2_Angry-Pig.gif)
+<!-- ![Prompt Angry Pig](ziacreatesideas.github.io/webpage3/images/Pig_Run2_Angry-Pig.gif) -->
 
 You can use the [editor on GitHub](https://github.com/ZiaCreatesIdeas/webpage3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
