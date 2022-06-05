@@ -32,9 +32,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hjMx8EuyZJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-
-<iframe src="https://drive.google.com/file/d/1iHE3k00SVYXmX-f1bSoNw3l8D-aDmRpR/view?usp=sharing" width="320" height="180" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
 ## gdrive
 
 <iframe src="https://drive.google.com/file/d/1iHE3k00SVYXmX-f1bSoNw3l8D-aDmRpR/preview" width="640" height="480" allow="autoplay"></iframe>
