@@ -32,11 +32,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hjMx8EuyZJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<p align="center">
-<iframe width="560" height="315" src="https://1drv.ms/v/s!ArHyfaiGO0FjhRdJAK8JBozlisKf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
-<iframe src="https://onedrive.live.com/embed?cid=63413B86A87DF2B1&resid=63413B86A87DF2B1%21659&authkey=ABz-kMzXwiZYwfs" width="320" height="180" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 <iframe src="https://drive.google.com/file/d/1iHE3k00SVYXmX-f1bSoNw3l8D-aDmRpR/view?usp=sharing" width="320" height="180" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
