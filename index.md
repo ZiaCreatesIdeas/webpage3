@@ -1,5 +1,5 @@
 <style>
-r { color: hsl(143.4, 32%, 60.8%) }
+r { color: hsl(309.4, 85.7%, 43.9%) }
 o { color: Orange }
 g { color: Green }
 </style>
